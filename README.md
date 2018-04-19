@@ -91,3 +91,4 @@ In the next `it` function call, we are still describing `companyName`. This time
 - [MDN: Const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-variables-lab'>Variables Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Variables Lab</p>
